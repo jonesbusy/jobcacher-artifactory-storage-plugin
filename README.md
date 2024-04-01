@@ -1,5 +1,12 @@
 # Jobcacher Artifactory storage Extension plugin
 
+![Build](https://ci.jenkins.io/job/Plugins/job/jobcacher-artifactory-storage-plugin/job/main/badge/icon)
+[![Coverage](https://ci.jenkins.io/job/Plugins/job/jobcacher-artifactory-storage-plugin/job/main/badge/icon?status=${instructionCoverage}&subject=coverage&color=${colorInstructionCoverage})](https://ci.jenkins.io/job/Plugins/job/jobcacher-artifactory-storage-plugin/job/main)
+[![LOC](https://ci.jenkins.io/job/Plugins/job/jobcacher-artifactory-storage-plugin/job/main/badge/icon?job=test&status=${lineOfCode}&subject=line%20of%20code&color=blue)](https://ci.jenkins.io/job/Plugins/job/jobcacher-artifactory-storage-plugin/job/main)
+![Contributors](https://img.shields.io/github/contributors/jenkinsci/jobcacher-artifactory-storage-plugin.svg?color=blue)
+[![GitHub release](https://img.shields.io/github/release/jenkinsci/jobcacher-artifactory-storage-plugin.svg?label=changelog)](https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/jenkinsci/jobcacher-artifactory-storage-plugin)](https://github.com/jenkinsci/jobcacher-artifactory-storage-plugin/blob/main/LICENSE.md)
+
 This plugin is an extension of the [jobcacher-plugin](https://plugins.jenkins.io/jobcacher/) that allows you to store the caches in JFrog Artifactory generic repository.
 
 > [!NOTE]
